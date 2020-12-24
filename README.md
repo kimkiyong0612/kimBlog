@@ -1,4 +1,10 @@
-#引用元:Gatsby Starter Ghost
+Runing
+
+docker-compose up
+
+yarn dev
+
+<!-- #引用元:Gatsby Starter Ghost
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
 
@@ -110,4 +116,4 @@ Gatsby `develop` uses the `development` config in `.ghost.json` - while Gatsby `
 
 Copyright (c) 2013-2020 Ghost Foundation - Released under the [MIT license](LICENSE).
 
-# kimBlog
+# kimBlog -->
