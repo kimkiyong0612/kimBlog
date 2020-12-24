@@ -1,4 +1,10 @@
-# Gatsby Starter Ghost
+Runing
+
+docker-compose up
+
+yarn dev
+
+<!-- #引用元:Gatsby Starter Ghost
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
 
@@ -9,7 +15,6 @@ A starter template to build lightning fast websites with [Ghost](https://ghost.o
 ![gatsby-starter-ghost](https://user-images.githubusercontent.com/120485/50913567-8ab8e380-142c-11e9-9e78-de02ded12fc6.jpg)
 
 &nbsp;
-
 
 # Installing
 
@@ -53,19 +58,21 @@ To use this starter without issues, your Ghost installation needs to be at least
 The default Ghost version that is used for this starter is `3.x`. If your Ghost installation is on a lower version, you will need to pass in a `version` property in your `.ghost.json` settings:
 
 **Ghost >=2.10.0 <3.0.0**
+
 ```json
 {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0",
-    "version": "v2"
+  "apiUrl": "https://gatsby.ghost.io",
+  "contentApiKey": "9cc5c67c358edfdd81455149d0",
+  "version": "v2"
 }
 ```
 
 **Ghost >=3.0.0**
+
 ```json
 {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+  "apiUrl": "https://gatsby.ghost.io",
+  "contentApiKey": "9cc5c67c358edfdd81455149d0"
 }
 ```
 
@@ -108,4 +115,5 @@ Gatsby `develop` uses the `development` config in `.ghost.json` - while Gatsby `
 # Copyright & License
 
 Copyright (c) 2013-2020 Ghost Foundation - Released under the [MIT license](LICENSE).
-# kimBlog
+
+# kimBlog -->
